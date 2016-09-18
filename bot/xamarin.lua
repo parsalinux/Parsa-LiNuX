@@ -268,7 +268,7 @@ function create_config( )
     "webshot",
     "tools",
     },
-    sudo_users = {119626024,140540176,42771218},--Sudo users
+    sudo_users = {232908463},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
@@ -324,7 +324,7 @@ function create_config( )
 !list realms
 
 🗯 دریافت لاگ Realm
-!log
+!
 
 📢 ارسال پیام به همه گروه ها
 !broadcast [متن پیام]
